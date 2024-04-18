@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @rdomurad
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 📫 How to reach me: instagram- r.domurad
+Ambicious developer in python and currently learning more languages.
+Instagram - r.domurad
+Discord - laughtea46
 
 <!---
 rdomurad/rdomurad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
