@@ -1,4 +1,4 @@
-Ambicious developer in python and currently learning more languages.
+Ambicious developer in python and javascript/typescript.
 Instagram - r.domurad
 Discord - laughtea46
 
