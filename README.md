@@ -1,6 +1,5 @@
-Ambicious developer in python and javascript/typescript.
 Instagram - r.domurad
-Discord - laughtea46
+
 
 <!---
 rdomurad/rdomurad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
